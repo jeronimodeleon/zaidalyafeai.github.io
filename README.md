@@ -19,7 +19,7 @@ Real Time style transfer check demo https://zaidalyafeai.github.io/RST/
 ![alt text](https://raw.githubusercontent.com/zaidalyafeai/zaidalyafeai.github.io/master/images/rst.png)
 
 ## Real Time Face recunstruction 
-Face recunstuction demo https://zaidalyafeai.github.io/fast-style/
+Face recunstuction demo https://zaidalyafeai.github.io/webcam-reconstruction/
 ![alt text](https://raw.githubusercontent.com/zaidalyafeai/zaidalyafeai.github.io/master/images/reconstruct.png)
 
 
